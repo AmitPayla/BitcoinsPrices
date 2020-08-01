@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/BitcoinsPrices/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/BitcoinsPrices/static/js/main.8a39bdbc.chunk.js",
+    "main.js.map": "/BitcoinsPrices/static/js/main.8a39bdbc.chunk.js.map",
+    "runtime-main.js": "/BitcoinsPrices/static/js/runtime-main.a6a203b4.js",
+    "runtime-main.js.map": "/BitcoinsPrices/static/js/runtime-main.a6a203b4.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/BitcoinsPrices/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.8fe74f2c.chunk.js": "/BitcoinsPrices/static/js/2.8fe74f2c.chunk.js",
+    "static/js/2.8fe74f2c.chunk.js.map": "/BitcoinsPrices/static/js/2.8fe74f2c.chunk.js.map",
+    "index.html": "/BitcoinsPrices/index.html",
+    "precache-manifest.49d233381349427f77634904957fc2ee.js": "/BitcoinsPrices/precache-manifest.49d233381349427f77634904957fc2ee.js",
+    "service-worker.js": "/BitcoinsPrices/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/BitcoinsPrices/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.5ecd60fb.chunk.css.map": "/BitcoinsPrices/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.8fe74f2c.chunk.js.LICENSE.txt": "/BitcoinsPrices/static/js/2.8fe74f2c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a6a203b4.js",
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.8fe74f2c.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.8a39bdbc.chunk.js"
+  ]
+}
